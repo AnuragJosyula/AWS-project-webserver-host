@@ -36,6 +36,6 @@ This website serves as a showcase of my background, technical skills, and contac
 
 ## 📡 Deployment
 
-This site is deployed on an Ubuntu EC2 instance using Apache HTTP Server. The files are located at:
+This site is deployed on an Ubuntu EC2 instance using Apache HTTP Server.
 
 
