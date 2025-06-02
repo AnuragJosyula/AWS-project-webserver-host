@@ -36,6 +36,6 @@ This website serves as a showcase of my background, technical skills, and contac
 
 ## 📡 Deployment
 
-This site is deployed on an Ubuntu EC2 instance using Apache HTTP Server.
+This site is deployed on an Ubuntu EC2 instance using Apache HTTP Server. And hosted on https://anuragjosyula.github.io/AWS-project-webserver-host/
 
 
